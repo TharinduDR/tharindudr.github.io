@@ -12,11 +12,15 @@ redirect_from:
 Education
 ======
 * 2010 - 2015 B.Sc. Eng. Computer Science and Engineering, University of Moratuwa, Sri Lanka
+              
               Thesis title: Vivarana: Interactive Data Visualization for Complex Event Processor Rule Generation,
+
               Advisors: Prof. Gihan Dias & Dr. Charith Chitraranjan
 
 * 2018 - 2021 Ph.D in Computational Linguistics, University of Wolverhampton, United Kingdom.
+
               Thesis title: A semantic textual similarity metric based on deep learning for effective translation memories,
+              
               Advisors: Prof. Ruslan Mitkov & Dr. Constatin Orasan
 
 Work experience
