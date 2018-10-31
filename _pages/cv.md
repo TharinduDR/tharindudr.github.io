@@ -59,13 +59,12 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* CS2963 Presentation Skills - Module is designed to aware students about presentation skills/public speaking. I planned course content, 
+  prepared lectures, conducted lectures and evaluated students.
   
 Achievements & Awards
 ======
-* 2016 - Dean’s List, Faculty of Engineering, University of Moratuwa, Sri Lanka – 7th Semester
+* <B>2016</B> - Dean’s List, Faculty of Engineering, University of Moratuwa, Sri Lanka – 7th Semester
 * 2015 - Darrel Chong Award from IEEE – won the silver medal for best value driven exemplary student activity from an IEEE Student Branch
 * 2010 - Represented Sri Lanka in Asian Physics Olympiad - 2010 held in Taiwan which over 20 countries in Asia participated.
 * 2009 - Island First and Gold medalist in Sri Lankan Physics Olympiad - 2009 organized by the Department of physics, University of Colombo, 
