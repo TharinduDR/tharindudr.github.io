@@ -67,8 +67,8 @@ Achievements & Awards
 ======
 * 2016 - Dean’s List, Faculty of Engineering, University of Moratuwa, Sri Lanka – 7th Semester
 * 2015 - Darrel Chong Award from IEEE – won the silver medal for best value driven exemplary student activity from an IEEE Student Branch
-* Represented Sri Lanka in Asian Physics Olympiad - 2010 held in Taiwan which over 20 countries in Asia participated.
-* Island First and Gold medalist in Sri Lankan Physics Olympiad - 2009 organized by the Department of physics, University of Colombo, 
+* 2010 - Represented Sri Lanka in Asian Physics Olympiad - 2010 held in Taiwan which over 20 countries in Asia participated.
+* 2009 - Island First and Gold medalist in Sri Lankan Physics Olympiad - 2009 organized by the Department of physics, University of Colombo, 
   Sri Lanka
 * 2007 & 2008 - High Distinction Certificate holder in Sri Lankan Mathematics Olympiad 2008 and Sri Lankan Mathematics Olympiad 2007 
   organized by Sri Lankan Mathematics Olympiad Foundation
