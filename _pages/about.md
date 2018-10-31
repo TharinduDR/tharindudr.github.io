@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 published: true
 ---
-Hi | ආයුබෝවන්  (āyubōvan).
+
+Hi, ආයුබෝවන්  (āyubōvan).
 
 I am a PhD Student at [RGCL](http://rgcl.wlv.ac.uk/) in [University of Wolverhamton](https://www.wlv.ac.uk/) supervised by [Prof. Ruslan Mitkov](https://www.wlv.ac.uk/research/institutes-and-centres/riilp---research-institute-in-information-and-lan/research-group-of-computational-linguistics/staff-at-rgcl/professor-mitkov/) and [Dr. Constatin Orasan](http://pers-www.wlv.ac.uk/~in6093/). My research is based on using deep learning for translation memories. 
 
