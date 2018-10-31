@@ -11,17 +11,14 @@ redirect_from:
 
 Education
 ======
-* 2010 - 2015 B.Sc. Eng. Computer Science and Engineering, University of Moratuwa, Sri Lanka
+* 2018 - 2021 Ph.D in Computational Linguistics, University of Wolverhampton, United Kingdom.<br>
+              Thesis title: A semantic textual similarity metric based on deep learning for effective translation memories,<br>
+              Advisors: Prof. Ruslan Mitkov & Dr. Constatin Orasan
               
-              Thesis title: Vivarana: Interactive Data Visualization for Complex Event Processor Rule Generation,
-
+* 2010 - 2015 B.Sc. Eng. Computer Science and Engineering, University of Moratuwa, Sri Lanka<br>
+              Thesis title: Vivarana: Interactive Data Visualization for Complex Event Processor Rule Generation,<br>
               Advisors: Prof. Gihan Dias & Dr. Charith Chitraranjan
 
-* 2018 - 2021 Ph.D in Computational Linguistics, University of Wolverhampton, United Kingdom.
-
-              Thesis title: A semantic textual similarity metric based on deep learning for effective translation memories,
-              
-              Advisors: Prof. Ruslan Mitkov & Dr. Constatin Orasan
 
 Work experience
 ======
@@ -37,13 +34,13 @@ Work experience
   
 Projects
 ======
-* <B>2015</2015> West Nile Virus Prediction – Predicted when and where different species of mosquitos will test positive for West Nile virus 
+* <B>2015</B> West Nile Virus Prediction – Predicted when and where different species of mosquitos will test positive for West Nile virus 
   given weather, location, testing, and spraying data using an ensemble model of Gradient Boosting Classification Decision trees and Regularized Greedy Forest. Collaborated with Chicago Department of Public Health.
 
-* <B>2015</2015> KDD Cup 2014 - Predicting Excitement at DonorsChoose.org - Identified projects that are exceptionally exciting to the 
+* <B>2015</B> KDD Cup 2014 - Predicting Excitement at DonorsChoose.org - Identified projects that are exceptionally exciting to the 
   business, at the time of posting using an ensemble model of vowpal wabbit, Random Forests and Extra Trees(goo.gl/CU5RIA)
 
-* <B>2017</2015> Mercedes-Benz Greener Manufacturing - Predicted the time it takes to pass speedier testing given different permutations of 
+* <B>2017</B> Mercedes-Benz Greener Manufacturing - Predicted the time it takes to pass speedier testing given different permutations of 
   Mercedes-Benz car features. Ensemble model of 2 XGBoost models was used for the prediction. PCA and ICA were used since the data set had anonymized features.
   
 Talks
