@@ -11,13 +11,17 @@ redirect_from:
 
 Education
 ======
-* 2018 - 2021 Ph.D in Computational Linguistics, University of Wolverhampton, United Kingdom.<br>
+* <B>2018 - 2021</B> Ph.D in Computational Linguistics, University of Wolverhampton, United Kingdom.<br>
               Thesis title: A semantic textual similarity metric based on deep learning for effective translation memories,<br>
               Advisors: Prof. Ruslan Mitkov & Dr. Constatin Orasan
-              
-* 2010 - 2015 B.Sc. Eng. Computer Science and Engineering, University of Moratuwa, Sri Lanka<br>
+
+* <B>2010 - 2015</B> B.Sc. Eng. Computer Science and Engineering, University of Moratuwa, Sri Lanka<br>
               Thesis title: Vivarana: Interactive Data Visualization for Complex Event Processor Rule Generation,<br>
               Advisors: Prof. Gihan Dias & Dr. Charith Chitraranjan
+
+* <B>2007 – 2009</B> General Certificate of Advanced Level - Royal College, Sri Lanka<br>
+                    Physics – A Combined Mathematics – A Chemistry – A<br>
+                    Z-score – 2.53
 
 
 Work experience
