@@ -11,9 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* 2010 - 2015 B.Sc. Eng. Computer Science and Engineering, University of Moratuwa, Sri Lanka
+              Thesis title: Vivarana: Interactive Data Visualization for Complex Event Processor Rule Generation,
+              Advisors: Prof. Gihan Dias & Dr. Charith Chitraranjan
+
+* 2018 - 2021 Ph.D in Computational Linguistics, University of Wolverhampton, United Kingdom.
+              Thesis title: A semantic textual similarity metric based on deep learning for effective translation memories,
+              Advisors: Prof. Ruslan Mitkov & Dr. Constatin Orasan
 
 Work experience
 ======
@@ -27,9 +31,14 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+Projects
 ======
-* Skill 1
+* West Nile Virus Prediction – Predicted when and where different species of mosquitos will test
+  positive for West Nile virus given weather, location, testing, and spraying data using an ensemble
+  model of Gradient Boosting Classification Decision trees and Regularized Greedy Forest.
+  Collaborated with Chicago Department of Public Health. (goo.gl/n9gqWp)
+
+* 
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
@@ -54,6 +63,17 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Achievements & Awards
 ======
-* Currently signed in to 43 different slack teams
+* 2016 - Dean’s List, Faculty of Engineering, University of Moratuwa, Sri Lanka – 7th Semester
+* 2015 - Darrel Chong Award from IEEE – won the silver medal for best value driven exemplary student activity from an IEEE Student Branch
+* Represented Sri Lanka in Asian Physics Olympiad - 2010 held in Taiwan which over 20 countries in Asia participated.
+* Island First and Gold medalist in Sri Lankan Physics Olympiad - 2009 organized by the Department of physics, University of Colombo, 
+  Sri Lanka
+* 2007 & 2008 - High Distinction Certificate holder in Sri Lankan Mathematics Olympiad 2008 and Sri Lankan Mathematics Olympiad 2007 
+  organized by Sri Lankan Mathematics Olympiad Foundation
+* 2006 & 2009 - High Distinction Certificate holder in senior division of Australian Chemistry Quiz 2009 and Credit Certificate holder in 
+  junior division of Australian Chemistry Quiz 2006 organized by Royal Australian Chemical Institute
+* 2009 - Mahapola Higher Education (Merit) Scholarship for undergraduate studies at the University of Moratuwa, Sri Lanka. Sponsor: 
+  University  Grants Commission (UGC) of Sri Lanka
+
