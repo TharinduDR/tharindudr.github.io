@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>[RGCL at GermEval 2019: Offensive Language Detection with Deep Learning](https://tharindudr.github.io/publications/2010-10-01-paper-title-number-2)</b> <br> 
+<b>[RGCL at GermEval 2019: Offensive Language Detection with Deep Learning](https://tharindudr.github.io/publications/RGCL_at_GermEval_2019_Offensive_Language_Detection_with_Deep_Learning)</b> <br> 
 Alistair Plum, <b>Tharindu Ranasinghe</b>, Constantin Orasan, Ruslan Mitkov.
 <i>The 15th KONVENS</i>. <b>KONVENS 2019</b>.
 

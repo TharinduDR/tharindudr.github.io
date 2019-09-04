@@ -1,7 +1,7 @@
 ---
 title: "RGCL at GermEval 2019: Offensive Language Detection with Deep Learning"
 collection: publications
-permalink: /publications/MetaIRL
+permalink: /publications/RGCL_at_GermEval_2019_Offensive_Language_Detection_with_Deep_Learning
 venue: "KONVENS 2019"
 ---
 
