@@ -1,18 +1,24 @@
-# Authors
+# The primary author of this blog.
+# Must be the same as `author` in `_config.yml`.
+# You can change `author1` to your shortname.
+author1:
+  name:              Tharindu Ranasinghe
+  email:             t.d.ranasinghehettiarachchige@wlv.ac.uk
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  # Used at the bottom of each page and at the top of the `about` layout
+  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
+  about:             |
+    PhD Student at Research Group in Computational Linguistics, University of WOlverhampton
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+  # This photo will be used in the about section.
+  picture:
+    path:            assets/img/me.jpg
+
+  # Social media icons in sidebar.
+  # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
+  social:
+    email:             t.d.ranasinghehettiarachchige@wlv.ac.uk
+    github:            tharinduDR
+    twitter:           tharinduDR
+    # linkedin:        <firstname-lastname-string>
+
