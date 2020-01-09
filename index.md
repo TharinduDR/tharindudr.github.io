@@ -15,7 +15,7 @@ I am interested in Deep Learning Applications in Natural Language Processing.
 
 
 ## Recent News
-* In October 2019, my team (BRUMS) participated in [HASOC 2019](https://hasoc2019.github.io/) achieved third place out of 174 teams in English subtask. Also BRUMS were 8th from 93 teams in Hindi subtask and 8th out of 54 teams in German subtask.
+* In October 2019, my team (BRUMS) participated in [HASOC 2019](https://hasoc2019.github.io/) to identify Hate Speech and Offensive Content in Indo-European Languages. We achieved third place out of 174 teams in English subtask. Also BRUMS were 8th from 93 teams in Hindi subtask and 8th out of 54 teams in German subtask.
 
 * In October 2019, my team (RGCL) participated in [IDAT 2019](https://www.irit.fr/IDAT2019/) to detect irony in Arabic tweets. We achived 4th place out of 18 teams. 
 
