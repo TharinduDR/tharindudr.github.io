@@ -78,7 +78,7 @@ papers:
     title: "Concept Discovery through Information Extraction in Restaurant Domain"
     authors: "Nadeesha Pathirana, Sandaru Seneviratne, Rangika Samarawickrama, Shane Wolff, Charith Chitraranjan, Uthayasanker Thayasivam, and Thrindu Ranasinghe"
     booktitle: "Computación y Sistemas"
-    doc-url: https://arxiv.org/ftp/arxiv/papers/1906/1906.05039.pdf
+    doc-url: https://www.cys.cic.ipn.mx/ojs/index.php/CyS/article/view/3277
     venue: conference
   - layout: paper
     selected: yes
@@ -87,7 +87,7 @@ papers:
     title: "Knowledge Building via Optimally Clustered Word Embedding with Hierarchical Clustering"
     authors: "Nadeesha Pathirana, Sandaru Seneviratne, Rangika Samarawickrama, Shane Wolff, Charith Chitraranjan, Uthayasanker Thayasivam, and Thrindu Ranasinghe"
     booktitle: "Proceedings of the 15th International Conference on Natural Language Processing (ICON-2018)"
-    doc-url: https://www.aclweb.org/anthology/S19-2228.pdf
+    doc-url: https://www.researchgate.net/profile/Vijay_Rowtula/publication/335517091_ICON-2018proceedings1/links/5d6a1065299bf1808d59cacd/ICON-2018proceedings1.pdf#page=87
     venue: conference
   - layout: paper
     selected: yes
