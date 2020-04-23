@@ -15,7 +15,9 @@ I am interested in Deep Learning Applications in Natural Language Processing.
 
 
 ## Recent News
-* In February 15th 2020. A paper titled "Offensive Language Identification in Greek" was accepted in [LREC 2020](https://lrec2020.lrec-conf.org/en/). We release an Offensive Language Identification dataset for Greek as well as several baseline models to tackle the task.
+* On April 21st 2020, A paper titled "Intelligent Translation Memory Matching and Retrieval with Sentence Encoders" was accepted in [EAMT 2020](https://eamt2020.inesc-id.pt/). We release our early findings on using deep learning for translation memory matching and retrieval.
+
+* On February 15th 2020. A paper titled "Offensive Language Identification in Greek" was accepted in [LREC 2020](https://lrec2020.lrec-conf.org/en/). We release an Offensive Language Identification dataset for Greek as well as several baseline models to tackle the task.
 
 * In October 2019, my team (BRUMS) participated in [HASOC 2019](https://hasoc2019.github.io/) to identify Hate Speech and Offensive Content in Indo-European Languages. We achieved third place out of 174 teams in English subtask. Also BRUMS were 8th from 93 teams in Hindi subtask and 8th out of 54 teams in German subtask.
 
@@ -27,7 +29,6 @@ I am interested in Deep Learning Applications in Natural Language Processing.
 
 * On March 10, 2019. A paper titled “RGCL-WLV at SemEval-2019 Task 12: Toponym Detection” was accepted at SemEval-2019.
 
-* On March 4, 2019. A paper titled “Concept Discovery through Information Extraction in Restaurant Domain” was accepted at [CICLing 2019.](https://www.cicling.org/2019/)
 
 
 
