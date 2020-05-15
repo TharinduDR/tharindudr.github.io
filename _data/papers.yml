@@ -2,6 +2,15 @@ papers:
   - layout: paper
     paper-type: inproceedings
     selected: yes
+    year: 2020
+    title: "Offensive Language Identification in Greek"
+    authors: "Zeses Pitenis, Marcos Zampieri, and Tharindu Ranasinghe"
+    booktitle: "Proceedings of The 12th Language Resources and Evaluation Conference"
+    doc-url: http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.629.pdf
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
     year: 2019
     title: "BRUMS at HASOC 2019: Deep Learning Models for Multilingual Hate Speech and Offensive Language Identification"
     authors: "Tharindu Ranasinghe, Marcos Zampieri, and Hansi Hettiarachchi"
@@ -15,7 +24,7 @@ papers:
     title: "RGCL at IDAT: Deep Learning models for Irony Detection in Arabic Language"
     authors: "Tharindu Ranasinghe, Hadeel Saadany, Alistair Plum, Salim Mandhari, Emad Mohamed, Constantin Orasan, and Ruslan Mitkov"
     booktitle: "Proceedings of the 11th annual meeting of the Forum for Information Retrieval Evaluation"
-    doc-url: http://irlab.daiict.ac.in/~Parth/T4-5.pdf
+    doc-url: http://ceur-ws.org/Vol-2517/T4-5.pdf
     venue: conference
   - layout: paper
     selected: yes
