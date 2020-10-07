@@ -20,7 +20,7 @@ I am interested in Deep Learning Applications in Natural Language Processing.
 
 * On September 15th 2020 a short paper accepted to [EMNLP 2020](https://2020.emnlp.org/): "Multilingual Offensive Language Identification with Cross-lingual Embeddings" - We present our initial experiments on transfer learning for Offensive Language Identification in low resource languages.
 
-* In Auguet, Our framework developed for Quality Estimation: TransQuest won the first place in [WMT 2020](http://www.statmt.org/wmt20/) sentence-level DA shared task in the all the language pairs and the multilingual track out of 50 participants. 
+* In Auguet, Our framework developed for Quality Estimation: [TransQuest](https://github.com/TharinduDR/TransQuest) won the first place in [WMT 2020](http://www.statmt.org/wmt20/) sentence-level DA shared task in all the language pairs and the multilingual track out of 50 participants. 
 
 * On April 21st 2020, A paper titled "Intelligent Translation Memory Matching and Retrieval with Sentence Encoders" was accepted in [EAMT 2020](https://eamt2020.inesc-id.pt/). We release our early findings on using deep learning for translation memory matching and retrieval.
 
