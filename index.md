@@ -18,7 +18,7 @@ I am interested in Deep Learning Applications in Natural Language Processing.
 
 * On September 30th 2020, Our work on Translation Quality Estimation - "TransQuest: Translation Quality Estimation with Cross-lingual Transformers" was accepted to [COLING 2020](https://coling2020.org/) as a long paper. We release a QE framework for sentence-level quality estimation.
 
-* On September 15th 2020 a short paper accepted to [EMNLP 2020](https://2020.emnlp.org/): "Multilingual Offensive Language Identification with Cross-lingual Embeddings" - We present our initial experiments on transfer learning for Offensive Language Identification in low resource languages.
+* On September 15th 2020, a short paper accepted to [EMNLP 2020](https://2020.emnlp.org/): "Multilingual Offensive Language Identification with Cross-lingual Embeddings" - We present our initial experiments on transfer learning for Offensive Language Identification in low resource languages.
 
 * In August 2020, Our framework developed for Quality Estimation: [TransQuest](https://github.com/TharinduDR/TransQuest) won the first place in [WMT 2020](http://www.statmt.org/wmt20/) sentence-level DA shared task in all the language pairs and the multilingual track out of 50 participants. 
 
