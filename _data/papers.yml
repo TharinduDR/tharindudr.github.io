@@ -3,6 +3,15 @@ papers:
     paper-type: inproceedings
     selected: yes
     year: 2020
+    title: "Intelligent Translation Memory Matching and Retrieval with Sentence Encoders"
+    authors: "Tharindu Ranasinghe, Constantin Orasan, and Ruslan Mitkov"
+    booktitle: "Proceedings of the 22nd Annual Conference of the European Association for Machine Translation"
+    doc-url: https://www.aclweb.org/anthology/2020.eamt-1.19
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2020
     title: "Offensive Language Identification in Greek"
     authors: "Zeses Pitenis, Marcos Zampieri, and Tharindu Ranasinghe"
     booktitle: "Proceedings of The 12th Language Resources and Evaluation Conference"
