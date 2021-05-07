@@ -4,17 +4,20 @@ title: About me
 cover: false
 ---
 
-ආයුබෝවන්(āyubōvan), Hi
+*ආයුබෝවන්(āyubōvan), May you live longer!!*
 
 
-I am a PhD Student at [Research Group in Computational Linguistics (RGCL)](http://rgcl.wlv.ac.uk/) in [University of Wolverhamton](https://www.wlv.ac.uk/) supervised by [Prof Ruslan Mitkov](https://en.wikipedia.org/wiki/Ruslan_Mitkov) and [Prof Constantin Orasan](http://dinel.org.uk/). My current research focuses on using Deep Learning for applications in machine translation domain.
+I am a PhD Student at [Research Group in Computational Linguistics (RGCL)](http://rgcl.wlv.ac.uk/) at the [University of Wolverhampton](https://www.wlv.ac.uk/) supervised by [Prof Ruslan Mitkov](https://en.wikipedia.org/wiki/Ruslan_Mitkov) and [Prof Constantin Orasan](http://dinel.org.uk/). My current research focuses on using Deep Learning for applications in translation technology.
 
-I received my bachelors degree from [University of Moratuwa, Sri Lanka](http://cse.mrt.ac.lk/), specialising in Computer Science & Engineering. After the graduation, I worked as an Associate Technical Team Lead in the R&D division of [CodeGen International](https://www.codegen.co.uk/) where I lead and managed the Machine Learning and Data Science team. I worked on several machine learning projects related to travel domain, such as Personalisation and Recommendation, Revenue Management, Review Mining, Chat bots etc.
+I received my bachelor's degree from the [University of Moratuwa, Sri Lanka](http://cse.mrt.ac.lk/), specialising in Computer Science & Engineering. After graduation, I worked as an Associate Technical Team Lead in the R&D division of [CodeGen International](https://www.codegen.co.uk/) where I lead and managed the Machine Learning and Data Science team. I worked on several machine learning projects related to the travel domain, such as Personalisation and Recommendation, Revenue Management, Review Mining, Chatbots etc. I started my PhD in 2018. 
 
 I am interested in Deep Learning Applications in Natural Language Processing.
 
 
 ## Recent News
+* On 5th May 2021, our paper on translation quality estimation - "An Exploratory Analysis of Multilingual Word Level Quality Estimation with Cross-Lingual Transformers" was accepted to [ACL-IJCNLP 2021](https://2021.aclweb.org/). We extend the TransQuest framework for word level quality estimation.
+
+* On March 18th 2020, Our paper on offensive spans detection - "MUDES - {Mu}ltilingual {De}tection of Offensive {S}pans" was accepted to [NAACL 2021](https://2021.naacl.org/) as a system demonstration paper.
 
 * On September 30th 2020, Our work on Translation Quality Estimation - "TransQuest: Translation Quality Estimation with Cross-lingual Transformers" was accepted to [COLING 2020](https://coling2020.org/) as a long paper. We release a QE framework for sentence-level quality estimation.
 
@@ -26,24 +29,5 @@ I am interested in Deep Learning Applications in Natural Language Processing.
 
 * On February 15th 2020. A paper titled "Offensive Language Identification in Greek" was accepted in [LREC 2020](https://lrec2020.lrec-conf.org/en/). We release an Offensive Language Identification dataset for Greek as well as several baseline models to tackle the task.
 
-* In October 2019, my team (BRUMS) participated in [HASOC 2019](https://hasoc2019.github.io/) to identify Hate Speech and Offensive Content in Indo-European Languages. We achieved third place out of 174 teams in English subtask. Also BRUMS were 8th from 93 teams in Hindi subtask and 8th out of 54 teams in German subtask.
 
-* In October 2019, my team (RGCL) participated in [IDAT 2019](https://www.irit.fr/IDAT2019/) to detect irony in Arabic tweets. We achived 4th place out of 18 teams. 
-
-* On July 6, 2019. Four papers accepted to [RANLP 2019](http://lml.bas.bg/ranlp2019/start.php): Emoji Powered Capsule Network to Detect Type and Target of Offensive Posts in Social Media; Enhancing Unsupervised Sentence Similarity Methods with Deep Contextualised Word Representations; Toponym Detection in the Bio-Medical Domain: A Hybrid Approach with Deep Learning; Semantic Textual Similarity with Siamese Neural Networks.
-
-
-
-
-## Recent Research Highlights
-
-<ul>
-{% for paper in site.data.papers.papers %}
-  {% if paper.selected %}
-  <li>
-  {% include paper.html paper=paper %}
-  </li>
-  {% endif %}
-{% endfor %}
-</ul>
 
