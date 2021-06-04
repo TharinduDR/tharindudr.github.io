@@ -4,7 +4,7 @@ title: About me
 cover: false
 ---
 
-*ආයුබෝවන්(āyubōvan), May you live longer!!*
+*ආයුබෝවන් (āyubōvan), May you live longer!!*
 
 
 I am a PhD Student at [Research Group in Computational Linguistics (RGCL)](http://rgcl.wlv.ac.uk/) at the [University of Wolverhampton](https://www.wlv.ac.uk/) supervised by [Prof Ruslan Mitkov](https://en.wikipedia.org/wiki/Ruslan_Mitkov) and [Prof Constantin Orasan](http://dinel.org.uk/). My current research focuses on using Deep Learning for applications in translation technology.
