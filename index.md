@@ -7,9 +7,9 @@ cover: false
 *ආයුබෝවන් (āyubōvan), May you live longer!!*
 
 
-I am a PhD Student at [Research Group in Computational Linguistics (RGCL)](http://rgcl.wlv.ac.uk/) at the [University of Wolverhampton](https://www.wlv.ac.uk/) supervised by [Prof Ruslan Mitkov](https://en.wikipedia.org/wiki/Ruslan_Mitkov) and [Prof Constantin Orasan](http://dinel.org.uk/). My current research focuses on using Deep Learning for applications in translation technology.
+I am a PhD Student at [Research Group in Computational Linguistics (RGCL)](http://rgcl.wlv.ac.uk/) at the [University of Wolverhampton](https://www.wlv.ac.uk/) supervised by [Prof Ruslan Mitkov](https://en.wikipedia.org/wiki/Ruslan_Mitkov) and [Prof Constantin Orasan](http://dinel.org.uk/). My current research focuses on using Deep Learning for the applications in translation technology.
 
-I received my bachelor's degree from the [University of Moratuwa, Sri Lanka](http://cse.mrt.ac.lk/), specialising in Computer Science & Engineering. After graduation, I worked as an Associate Technical Team Lead in the R&D division of [CodeGen International](https://www.codegen.co.uk/) where I lead and managed the Machine Learning and Data Science team. I worked on several machine learning projects related to the travel domain, such as Personalisation and Recommendation, Revenue Management, Review Mining, Chatbots etc. I started my PhD in 2018. 
+I received my bachelor's degree from the [University of Moratuwa, Sri Lanka](http://cse.mrt.ac.lk/), specialising in Computer Science & Engineering. After graduation, I worked as an Associate Technical Team Lead in the R&D division of [CodeGen International](https://www.codegen.co.uk/) where I lead and managed the Machine Learning and Data Science team. I started my PhD in 2018. 
 
 I am interested in Deep Learning Applications in Natural Language Processing.
 
