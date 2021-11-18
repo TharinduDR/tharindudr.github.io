@@ -4,14 +4,13 @@ title: About me
 cover: false
 ---
 
-*ආයුබෝවන් (āyubōvan), May you live longer!!*
+I am a lecturer at the University of Wolverhampton and a member of the Research Group on Computational Linguistics (RGCL), affiliated with the Research Institute of Information and Language Processing (RIILP).
 
+I hold a PhD in Computer Science from the University of Wolverhampton, which I defended in 2021. As a PhD student, I worked on applying deep learning-based text similarity metric for applications in translation technology under the supervision of [Prof Ruslan Mitkov](https://www.wlv.ac.uk/research/institutes-and-centres/riilp---research-institute-in-information-and-lan/research-group-of-computational-linguistics/staff-at-rgcl/professor-mitkov/) and [Prof Constantin Orasan](http://pers-www.wlv.ac.uk/~in6093/). For my PhD, I first worked on semantic textual similarity methods and developed open-source tools such as [STS-Transformers](https://github.com/TharinduDR/STS-Transformers). Then I turned to use semantic textual similarity in Translation Memories. Finally, I worked on utilising semantic textual similarity in Translation Quality Estimation where I developed the award-winning [TransQuest](http://tharindu.co.uk/TransQuest/) which won the WMT 2021 Shared Task on Translation Quality Estimation.
 
-I am a PhD Student at [Research Group in Computational Linguistics (RGCL)](http://rgcl.wlv.ac.uk/) at the [University of Wolverhampton](https://www.wlv.ac.uk/) supervised by [Prof Ruslan Mitkov](https://en.wikipedia.org/wiki/Ruslan_Mitkov) and [Prof Constantin Orasan](http://dinel.org.uk/). My current research focuses on using Deep Learning for the applications in translation technology.
+I have also worked on Offensive Language Identification, where I have contributed to developing new datasets such as OGDT (Offensive Greek Tweet Dataset) and MOLD (Marathi Offensive Language Dataset). Furthermore, I have developed tools such as [MUDES](https://github.com/TharinduDR/MUDES) to improve open-source development in offensive language detection.
 
-I received my bachelor's degree from the [University of Moratuwa, Sri Lanka](http://cse.mrt.ac.lk/), specialising in Computer Science & Engineering. After graduation, I worked as an Associate Technical Team Lead in the R&D division of [CodeGen International](https://www.codegen.co.uk/) where I lead and managed the Machine Learning and Data Science team. I started my PhD in 2018. 
-
-I am interested in Deep Learning Applications in Natural Language Processing.
+I am interested in machine learning applications in NLP with a particular interest in multilingual models. Contact me if you would like to be part of exciting projects within my areas of expertise or are interested in exploring the use of those technologies to address real-world problems.
 
 
 ## Recent News
