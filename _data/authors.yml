@@ -3,12 +3,12 @@
 # You can change `author1` to your shortname.
 author1:
   name:              Tharindu Ranasinghe
-  email:             t.d.ranasinghehettiarachchige@wlv.ac.uk
+  email:             Tharindu.Ranasinghe@wlv.ac.uk
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    PhD Student at Research Group in Computational Linguistics, University of WOlverhampton
+    Lecturer, University of WOlverhampton
 
   # This photo will be used in the about section.
   picture:
@@ -17,8 +17,7 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    email:             t.d.ranasinghehettiarachchige@wlv.ac.uk
+    email:             Tharindu.Ranasinghe@wlv.ac.uk
     github:            tharinduDR
     twitter:           tharinduDR
     # linkedin:        <firstname-lastname-string>
-
