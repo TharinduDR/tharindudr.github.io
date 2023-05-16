@@ -3,8 +3,9 @@ layout: page
 title: About me
 cover: false
 ---
+I am a lecturer at the School of Informatics and Digital Engineering, Aston University. 
 
-I am a lecturer at the University of Wolverhampton and a member of the Research Group on Computational Linguistics (RGCL), affiliated with the Research Institute of Information and Language Processing (RIILP).
+Previously I was a lecturer at the University of Wolverhampton and a member of the Research Group on Computational Linguistics (RGCL), affiliated with the Research Institute of Information and Language Processing (RIILP).
 
 I hold a PhD in Computer Science from the University of Wolverhampton, which I defended in 2021. As a PhD student, I worked on applying deep learning-based text similarity models for applications in translation technology under the supervision of [Prof Ruslan Mitkov](https://researchers.wlv.ac.uk/R.Mitkov) and [Prof Constantin Orasan](https://dinel.org.uk/).
 
