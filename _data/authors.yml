@@ -3,7 +3,7 @@
 # You can change `author1` to your shortname.
 author1:
   name:              Tharindu Ranasinghe
-  email:             t.ranasinghe@aston.ac.uk
+  email:             t.ranasinghe@lancaster.ac.uk
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -17,7 +17,7 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    email:             t.ranasinghe@aston.ac.uk
+    email:             t.ranasinghe@lancaster.ac.uk
     github:            tharinduDR
     twitter:           tharinduDR
     # linkedin:        <firstname-lastname-string>
