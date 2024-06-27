@@ -3,12 +3,12 @@ layout: page
 title: About me
 cover: false
 ---
-I am a lecturer at the School of Informatics and Digital Engineering, Aston University. 
+I am an Assistant Professor at the [School of Computing and Communications](https://www.lancaster.ac.uk/scc/), Lancaster University where I work with [UCREL NLP Group](https://ucrel.lancs.ac.uk/), [Data Science Institute](https://www.lancaster.ac.uk/dsi/) and [Security Lancaster](https://www.lancaster.ac.uk/security-lancaster/). 
 
-Previously I was a lecturer at the University of Wolverhampton and a member of the Research Group on Computational Linguistics (RGCL), affiliated with the Research Institute of Information and Language Processing (RIILP).
+I received my PhD in Computer Science from University of Wolverhampton where I was affiliated with the Research Group in Computational Linguistics.
 
-I hold a PhD in Computer Science from the University of Wolverhampton, which I defended in 2021. As a PhD student, I worked on applying deep learning-based text similarity models for applications in translation technology under the supervision of [Prof Ruslan Mitkov](https://researchers.wlv.ac.uk/R.Mitkov) and [Prof Constantin Orasan](https://dinel.org.uk/).
+My research focuses on developing Machine Learning (ML) approaches for Natural Language Processing (NLP) tasks, particularly emphasising NLP for Social Good. My work has various applications such as machine translation, social media analytics (i.e. hate speech detection, misinformation detection) and text adaptation. 
 
-I serve as a program committee member of multiple conferences. I am also a co-organiser of the shared task on [Hate Speech and Offensive Content Identification in English and Indo-Aryan Languages (HASOC)](https://hasocfire.github.io/hasoc/2022/index.html) from 2021.
+**Activities**
+I served as an area chair in LREC-COLING 2024. I am in the programming committee of major NLP/ ML conferences. I served as the research: technical track chair in [EAMT 2023](https://events.tuni.fi/eamt23/). I am the programme committee co-chair in [NeTTT 2024](https://nettt-conference.com/). I have organised multiple shared tasks such as HASOC and MLSP.
 
-My research focuses on various aspects of machine learning driven approaches to natural language processing, with a particular interest in multilingual models and explainable machine learning. My work has diverse applications such as translation quality estimation, social media data mining, offensive language identification, information extraction and digital humanities.
