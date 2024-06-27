@@ -24,11 +24,11 @@ title:                 Tharindu Ranasinghe
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Tharindu Ranasinghe at the Aston University
+  Tharindu Ranasinghe at the Lancaster University, UK
 
 # A shorter description for the sidebar.
 tagline:               >
-  Aston University
+  Lancaster University
 
 # A list of keywords for your blog.
 keywords:              []
@@ -41,7 +41,7 @@ author:
   name:                Tharindu Ranasinghe
   picture:             /assets/img/me.jpg
   social:
-    email:               'Tharindu.Ranasinghe@wlv.ac.uk'
+    email:               't.ranasinghe@lancaster.ac.uk'
     github:              TharinduDR
 
 # This text will appear in a `<small>` tag in the footer of every page.
