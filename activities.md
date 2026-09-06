@@ -10,7 +10,7 @@ My professional activities include the organisation of conferences, workshops an
 
 ## Conference and Workshop Organisation
 
-- **LoResLM Workshop Series ** — Founding co-organiser of the Workshop on Language Models for Low-Resource Languages.
+- **LoResLM Workshop Series** — Founding co-organiser of the Workshop on Language Models for Low-Resource Languages.
 - **EAMT 2023** — Research Track Chair, 24th Annual Conference of the European Association for Machine Translation.
 
 ## Shared Task Organisation
