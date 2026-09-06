@@ -2,6 +2,9 @@
 layout: page
 title: About me
 cover: false
+menu: true
+order: 1
+menu_title: Home
 ---
 
 I am an Assistant Professor at the [School of Computing and Communications](https://www.lancaster.ac.uk/scc/), Lancaster University, where I work with the [UCREL NLP Group](https://ucrel.lancs.ac.uk/), the [Data Science Institute](https://www.lancaster.ac.uk/dsi/), and [Security Lancaster](https://www.lancaster.ac.uk/security-lancaster/).
