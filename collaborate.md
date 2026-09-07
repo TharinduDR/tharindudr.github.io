@@ -16,9 +16,9 @@ When contacting me, please briefly introduce your research interests and include
 
 ## Visitors
 
-1. **Yoan Gutiérrez** — University of Alicante
-2. **Alicia Martínez-Mendoza** — Universidad de León
-3. **Amal Haddad Haddad** — University of Granada
-4. **Marie Escribe** — Valencia Polytechnic University
+1. **Dr Yoan Gutiérrez** — University of Alicante, Spain
+2. **Dr Alicia Martínez-Mendoza** — University of León, Spain
+3. **Dr Amal Haddad Haddad** — University of Granada, Spain
+4. **Dr Marie Escribe** — Valencia Polytechnic University, Spain
 
 If you would like to visit Lancaster for a **short research visit**, please feel free to contact me to discuss potential opportunities for collaboration.
