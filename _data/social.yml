@@ -9,6 +9,9 @@ amazon:
 google:
   name: Google
   icon: icon-google
+google-scholar:
+  name: Google Scholar
+  icon: icon-google
 google-plus:
   name: Google+
   icon: icon-google-plus
@@ -202,3 +205,4 @@ paypal:
 download:
   name: Download
   icon: icon-box-add
+
