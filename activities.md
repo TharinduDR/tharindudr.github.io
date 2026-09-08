@@ -52,8 +52,6 @@ I regularly serve as an **Area Chair for major NLP conferences through [ACL Roll
 - **Introduction to Translation Quality Estimation** — Rochester Institute of Technology, USA, July 2021.
 - **TransQuest: Cross-lingual Transformers for Quality Estimation** — National Languages Processing Centre, University of Moratuwa, Sri Lanka, July 2021.
 - **Semantic Textual Similarity based on Deep Learning: Can it improve matching and retrieval for Translation Memory tools?** — EMTTI Seminar Series, University of Wolverhampton, UK, January 2021.
-- **Introduction to REST** — IMPETUS 2017, Uva Wellassa University, Sri Lanka, April 2017.
-- **Artificial Intelligence for the End User** — SLASSCOM CONCLAVE, Sri Lanka, November 2016.
 
 ## Panels and Roundtables
 
