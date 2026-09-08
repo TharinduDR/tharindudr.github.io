@@ -11,7 +11,11 @@ I am an Assistant Professor at the [School of Computing and Communications](http
 
 My research focuses on developing Machine Learning (ML) approaches for Natural Language Processing (NLP), with a particular emphasis on NLP for Social Good. My work spans three main research themes:
 
-1. **Enhanced Communication:** I am interested in developing NLP technologies that improve both human-human communication and human-AI interaction. For human-human communication, my research includes areas such as machine translation, text summarisation, text simplification, and related technologies that make information more accessible across languages and communities. For human-AI interaction, I am interested in understanding and improving how people interact with language technologies, including areas such as machine translation quality estimation and methods for assessing the reliability and usefulness of model-generated outputs.
+1. **Enhanced Communication:** I am interested in developing NLP technologies that improve communication in two main ways:
+
+   a. **Human-human communication:** My research includes areas such as machine translation, text summarisation, text simplification, and related technologies that make information more accessible across languages and communities.
+
+   b. **Human-AI communication:** I am interested in understanding and improving how people interact with language technologies and methods for assessing the reliability and usefulness of model-generated outputs, including areas such as machine translation quality estimation.
 
 2. **Security and Safety:** I develop NLP and Machine Learning methods for improving online safety and understanding potentially harmful content. My research in this area includes offensive language and hate speech detection, misinformation detection, and the analysis of language related to mental health.
 
