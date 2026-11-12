@@ -9,16 +9,11 @@ menu_title: Home
 
 I am an Assistant Professor at the [School of Computing and Communications](https://www.lancaster.ac.uk/scc/), Lancaster University, where I work with the [UCREL NLP Group](https://ucrel.lancs.ac.uk/), the [Data Science Institute](https://www.lancaster.ac.uk/dsi/), and [Security Lancaster](https://www.lancaster.ac.uk/security-lancaster/).
 
-My research focuses on developing Machine Learning (ML) approaches for Natural Language Processing (NLP), with a particular emphasis on NLP for Social Good. My work spans three main research themes:
+My research focuses on **Natural Language Processing (NLP) and Machine Learning (ML)**, with a particular interest in developing language technologies that are accessible, reliable, safe, and beneficial to society. My work primarily focuses on enhancing communication in two interconnected areas:
 
-1. **Enhanced Communication:** I am interested in developing NLP technologies that improve communication in two main ways:
+- **Human–Human Communication:** My research includes machine translation, text summarisation, text simplification, and related technologies that make information more accessible across languages and communities. I also investigate online safety through offensive language detection, hate speech detection, and misinformation detection, with the aim of promoting safer communication.
 
-   a. **Human-human communication:** My research includes areas such as machine translation, text summarisation, text simplification, and related technologies that make information more accessible across languages and communities.
+- **Human–AI Communication:** I am interested in understanding and improving how people interact with language technologies, particularly the reliability, safety, and usefulness of AI-generated outputs. My work includes machine translation quality estimation, language model evaluation, and approaches to identifying and mitigating harmful or unsafe interactions with AI systems.
 
-   b. **Human-AI communication:** I am interested in understanding and improving how people interact with language technologies and methods for assessing the reliability and usefulness of model-generated outputs, including areas such as machine translation quality estimation.
+In these areas, I am interested in applying NLP and Machine Learning to interdisciplinary challenges, particularly in **cybersecurity, law, history, and education**. Across my research, I place particular emphasis on **multilingual and low-resource NLP**, and the development of **open-access datasets, benchmarks, and models** that support inclusive and reproducible research.
 
-2. **Security and Safety:** I develop NLP and Machine Learning methods for improving online safety and understanding potentially harmful content. My research in this area includes offensive language and hate speech detection, misinformation detection, and the analysis of language related to mental health.
-
-3. **Digital Humanities:** I am also interested in applying NLP techniques to problems in the Digital Humanities and related interdisciplinary domains. My work has included applications in legal NLP, historical text analysis, and education.
-
-Across all three areas, I have a particular interest in **low-resource languages, explainable Machine Learning, and the development of open-access datasets, benchmarks, and models** that can support wider research and real-world applications.
