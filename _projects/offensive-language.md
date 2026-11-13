@@ -2,6 +2,8 @@
 layout: page
 title: Offensive Language and Hate Speech Detection
 cover: false
+---
+
 <style>
 /* Offensive-language project timeline: scoped so it does not affect other pages */
 .ol-project {
@@ -295,13 +297,17 @@ cover: false
     grid-template-columns: 1fr;
   }
 }
+</style>
+
 <div class="ol-project">
+
 <p class="ol-intro">
 My research on offensive language and hate speech detection spans four main themes:
 model development, the creation of resources, explainability, and perspectives on
 offensiveness. The timeline below groups publications by these themes while showing
 related shared-task organisation, keynotes, and tutorials separately.
 </p>
+
 <div class="ol-legend">
   <div class="ol-legend-item theme-modelling">
     <strong>⚙ Modelling</strong>
@@ -320,16 +326,20 @@ related shared-task organisation, keynotes, and tutorials separately.
     Human disagreement, vicarious offence, annotator perspectives, and subjectivity.
   </div>
 </div>
+
 <div class="ol-activity-legend">
   <strong>Activities</strong>
   <span>🏆 Shared-task organisation</span>
   <span>🎤 Keynote / tutorial</span>
 </div>
+
 <div class="ol-breakout">
 <div class="ol-scroll">
 <div class="ol-canvas">
+
   <!-- ===================== RESEARCH OUTPUTS ===================== -->
-<div class="ol-research">
+  <div class="ol-research">
+
     <!-- 2019 -->
     <div class="ol-year-research">
       <div class="ol-theme-group theme-modelling">
@@ -555,9 +565,10 @@ related shared-task organisation, keynotes, and tutorials separately.
       </div>
     </div>
 
-</div>
+  </div>
+
   <!-- ===================== YEAR AXIS ===================== -->
-<div class="ol-axis">
+  <div class="ol-axis">
     <div class="ol-year"><span>2019</span></div>
     <div class="ol-year"><span>2020</span></div>
     <div class="ol-year"><span>2021</span></div>
@@ -566,8 +577,10 @@ related shared-task organisation, keynotes, and tutorials separately.
     <div class="ol-year"><span>2024</span></div>
     <div class="ol-year"><span>2025</span></div>
   </div>
+
   <!-- ===================== ACTIVITIES ===================== -->
-<div class="ol-activities">
+  <div class="ol-activities">
+
     <!-- 2019 -->
     <div class="ol-year-activities"></div>
 
@@ -625,11 +638,14 @@ related shared-task organisation, keynotes, and tutorials separately.
     <!-- 2025 -->
     <div class="ol-year-activities"></div>
 
+  </div>
+
 </div>
 </div>
 </div>
-</div>
+
 <p class="ol-note">
 On smaller screens, the timeline can be scrolled horizontally. Each publication remains a separate square card, while related papers are visually grouped under Modelling, Resources, Explainability, or Perspectives within each year.
 </p>
+
 </div>
