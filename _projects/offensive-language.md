@@ -2,7 +2,6 @@
 layout: page
 title: Offensive Language and Hate Speech Detection
 cover: false
-permalink: /projects/offensive-language/
 <style>
 /* Offensive-language project timeline: scoped so it does not affect other pages */
 .ol-project {
