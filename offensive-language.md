@@ -3,8 +3,6 @@ layout: page
 title: Offensive Language and Hate Speech Detection
 cover: false
 permalink: /projects/offensive-language/
----
-
 <style>
 /* Offensive-language project timeline: scoped so it does not affect other pages */
 .ol-project {
@@ -39,7 +37,7 @@ permalink: /projects/offensive-language/
 
 .ol-project .ol-legend-item,
 .ol-project .ol-activity-legend {
-  border-radius: .55rem;
+  border-radius: 0;
   padding: .7rem .8rem;
   border: 1px solid;
   font-size: .78rem;
@@ -54,7 +52,6 @@ permalink: /projects/offensive-language/
 }
 
 .ol-project .theme-modelling { background: var(--ol-blue); border-color: var(--ol-blue-border); }
-.ol-project .theme-cross { background: var(--ol-green); border-color: var(--ol-green-border); }
 .ol-project .theme-resource { background: var(--ol-gold); border-color: var(--ol-gold-border); }
 .ol-project .theme-explain { background: var(--ol-purple); border-color: var(--ol-purple-border); }
 .ol-project .theme-perspective { background: var(--ol-pink); border-color: var(--ol-pink-border); }
@@ -73,24 +70,40 @@ permalink: /projects/offensive-language/
 /* Hydejack's content column is intentionally narrow. This lets just the
    timeline make use of the available viewport without changing site-wide widths. */
 .ol-project .ol-breakout {
-  width: min(96vw, 112rem);
+  width: min(92vw, 112rem);
   position: relative;
   left: 50%;
   transform: translateX(-50%);
+  padding-inline: 1.25rem;
+  box-sizing: border-box;
 }
 
 .ol-project .ol-scroll {
   overflow-x: auto;
   overflow-y: visible;
-  padding: .5rem .25rem 1.5rem;
+  padding: 1rem 2rem 2rem;
+  scroll-padding-inline: 2rem;
   -webkit-overflow-scrolling: touch;
 }
 
+/* Years deliberately have different widths. Busy years get more horizontal
+   room, so theme groups and individual papers can sit beside one another
+   instead of forming one very tall stack. */
 .ol-project .ol-canvas {
-  min-width: 1420px;
+  width: max-content;
+  min-width: 100%;
   display: grid;
-  grid-template-columns: repeat(7, minmax(180px, 1fr));
-  column-gap: .7rem;
+  grid-template-columns:
+    420px   /* 2019 */
+    640px   /* 2020 */
+    820px   /* 2021 */
+    260px   /* 2022 */
+    860px   /* 2023 */
+    720px   /* 2024 */
+    400px;  /* 2025 */
+  column-gap: 1.1rem;
+  padding-inline: 1rem;
+  box-sizing: content-box;
 }
 
 .ol-project .ol-research {
@@ -98,39 +111,48 @@ permalink: /projects/offensive-language/
   display: grid;
   grid-template-columns: subgrid;
   align-items: end;
-  min-height: 42rem;
+  min-height: 31rem;
 }
 
 .ol-project .ol-year-research {
-  padding: 0 .1rem .7rem;
+  padding: 0 .2rem .8rem;
   align-self: end;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: .55rem;
+  align-content: end;
+}
+
+.ol-project .ol-year-research > .ol-theme-group:only-child {
+  grid-column: 1 / -1;
 }
 
 .ol-project .ol-theme-group {
   border: 1px solid;
-  border-radius: .6rem;
-  padding: .4rem;
-  margin-top: .55rem;
+  border-radius: 0;
+  padding: .45rem;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(175px, 1fr));
+  gap: .35rem;
+  align-content: start;
 }
 
 .ol-project .ol-theme-heading {
+  grid-column: 1 / -1;
   font-weight: 700;
   font-size: .82rem;
-  margin: 0 0 .35rem;
+  margin: 0 0 .1rem;
   line-height: 1.2;
 }
 
 .ol-project .ol-paper {
   background: rgba(255,255,255,.86);
   border: 1px solid rgba(20,30,40,.13);
-  border-radius: .45rem;
+  border-radius: 0;
   padding: .48rem .52rem;
-  margin-top: .35rem;
+  margin: 0;
   box-shadow: 0 1px 2px rgba(0,0,0,.035);
-}
-
-.ol-project .ol-paper:first-of-type {
-  margin-top: 0;
 }
 
 .ol-project .ol-paper-title {
@@ -218,15 +240,19 @@ permalink: /projects/offensive-language/
 }
 
 .ol-project .ol-year-activities {
-  padding: .4rem .1rem 0;
+  padding: .5rem .2rem 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: .45rem;
+  align-content: start;
 }
 
 .ol-project .ol-activity-card {
   background: var(--ol-activity);
   border: 1px solid var(--ol-activity-border);
-  border-radius: .5rem;
+  border-radius: 0;
   padding: .5rem .55rem;
-  margin-bottom: .45rem;
+  margin: 0;
   font-size: .73rem;
   line-height: 1.25;
 }
@@ -256,6 +282,12 @@ permalink: /projects/offensive-language/
     width: 100%;
     left: auto;
     transform: none;
+    padding-inline: 0;
+  }
+
+  .ol-project .ol-scroll {
+    padding-inline: 1rem;
+    scroll-padding-inline: 1rem;
   }
 }
 
@@ -264,53 +296,41 @@ permalink: /projects/offensive-language/
     grid-template-columns: 1fr;
   }
 }
-</style>
-
 <div class="ol-project">
-
 <p class="ol-intro">
-My research on offensive language and hate speech detection spans model development,
-cross-lingual analysis, the creation of resources for low-resource languages,
-explainability, and perspectivity. The timeline below groups publications by research
-theme while showing related shared-task organisation, keynotes, and tutorials separately.
+My research on offensive language and hate speech detection spans four main themes:
+model development, the creation of resources, explainability, and perspectives on
+offensiveness. The timeline below groups publications by these themes while showing
+related shared-task organisation, keynotes, and tutorials separately.
 </p>
-
 <div class="ol-legend">
   <div class="ol-legend-item theme-modelling">
     <strong>⚙ Modelling</strong>
-    Discriminative, generative, multi-task, knowledge-distillation, and privacy-preserving approaches.
-  </div>
-  <div class="ol-legend-item theme-cross">
-    <strong>◎ Cross-lingual Analysis</strong>
-    Multilingual and cross-lingual analysis across languages, scripts, and domains.
+    Discriminative, multilingual, cross-lingual, generative, multi-task, knowledge-distillation, robustness, and privacy-preserving approaches.
   </div>
   <div class="ol-legend-item theme-resource">
-    <strong>▤ Low-resource Resources</strong>
-    Datasets and evaluation resources for under-resourced languages.
+    <strong>▤ Resources</strong>
+    Datasets and evaluation resources, particularly for under-resourced languages and language varieties.
   </div>
   <div class="ol-legend-item theme-explain">
     <strong>⌕ Explainability</strong>
     Offensive spans, targets, and other work that explains what a model identifies as offensive.
   </div>
   <div class="ol-legend-item theme-perspective">
-    <strong>◉ Perspectivity</strong>
+    <strong>◉ Perspectives</strong>
     Human disagreement, vicarious offence, annotator perspectives, and subjectivity.
   </div>
 </div>
-
 <div class="ol-activity-legend">
   <strong>Activities</strong>
   <span>🏆 Shared-task organisation</span>
   <span>🎤 Keynote / tutorial</span>
 </div>
-
 <div class="ol-breakout">
 <div class="ol-scroll">
 <div class="ol-canvas">
-
   <!-- ===================== RESEARCH OUTPUTS ===================== -->
-  <div class="ol-research">
-
+<div class="ol-research">
     <!-- 2019 -->
     <div class="ol-year-research">
       <div class="ol-theme-group theme-modelling">
@@ -335,8 +355,8 @@ theme while showing related shared-task organisation, keynotes, and tutorials se
 
     <!-- 2020 -->
     <div class="ol-year-research">
-      <div class="ol-theme-group theme-cross">
-        <div class="ol-theme-heading">◎ Cross-lingual Analysis</div>
+      <div class="ol-theme-group theme-modelling">
+        <div class="ol-theme-heading">⚙ Modelling</div>
 
         <div class="ol-paper">
           <div class="ol-paper-title">Multilingual Offensive Language Identification with Cross-lingual Embeddings</div>
@@ -355,7 +375,7 @@ theme while showing related shared-task organisation, keynotes, and tutorials se
       </div>
 
       <div class="ol-theme-group theme-resource">
-        <div class="ol-theme-heading">▤ Low-resource Resources</div>
+        <div class="ol-theme-heading">▤ Resources</div>
 
         <div class="ol-paper">
           <div class="ol-paper-title">Offensive Language Identification in Greek</div>
@@ -380,8 +400,8 @@ theme while showing related shared-task organisation, keynotes, and tutorials se
         </div>
       </div>
 
-      <div class="ol-theme-group theme-cross">
-        <div class="ol-theme-heading">◎ Cross-lingual Analysis</div>
+      <div class="ol-theme-group theme-modelling">
+        <div class="ol-theme-heading">⚙ Modelling</div>
 
         <div class="ol-paper">
           <div class="ol-paper-title">Multilingual Offensive Language Identification for Low-resource Languages</div>
@@ -414,7 +434,7 @@ theme while showing related shared-task organisation, keynotes, and tutorials se
       </div>
 
       <div class="ol-theme-group theme-resource">
-        <div class="ol-theme-heading">▤ Low-resource Resources</div>
+        <div class="ol-theme-heading">▤ Resources</div>
 
         <div class="ol-paper">
           <div class="ol-paper-title">Transformer Models for Offensive Language Identification in Marathi</div>
@@ -438,7 +458,7 @@ theme while showing related shared-task organisation, keynotes, and tutorials se
       </div>
 
       <div class="ol-theme-group theme-perspective">
-        <div class="ol-theme-heading">◉ Perspectivity</div>
+        <div class="ol-theme-heading">◉ Perspectives</div>
 
         <div class="ol-paper">
           <div class="ol-paper-title">Vicarious Offense and Noise Audit of Offensive Speech Classifiers: Unifying Human and Machine Disagreement on What is Offensive</div>
@@ -465,8 +485,8 @@ theme while showing related shared-task organisation, keynotes, and tutorials se
         </div>
       </div>
 
-      <div class="ol-theme-group theme-cross">
-        <div class="ol-theme-heading">◎ Cross-lingual Analysis</div>
+      <div class="ol-theme-group theme-modelling">
+        <div class="ol-theme-heading">⚙ Modelling</div>
 
         <div class="ol-paper">
           <div class="ol-paper-title">Offensive Language Identification in Transliterated and Code-Mixed Bangla</div>
@@ -497,7 +517,7 @@ theme while showing related shared-task organisation, keynotes, and tutorials se
       </div>
 
       <div class="ol-theme-group theme-resource">
-        <div class="ol-theme-heading">▤ Low-resource Resources</div>
+        <div class="ol-theme-heading">▤ Resources</div>
 
         <div class="ol-paper">
           <div class="ol-paper-title">SOLD: Sinhala Offensive Language Dataset</div>
@@ -505,8 +525,8 @@ theme while showing related shared-task organisation, keynotes, and tutorials se
         </div>
       </div>
 
-      <div class="ol-theme-group theme-cross">
-        <div class="ol-theme-heading">◎ Cross-lingual Analysis</div>
+      <div class="ol-theme-group theme-modelling">
+        <div class="ol-theme-heading">⚙ Modelling</div>
 
         <div class="ol-paper">
           <div class="ol-paper-title">On the Effects of Machine Translation on Offensive Language Detection</div>
@@ -515,7 +535,7 @@ theme while showing related shared-task organisation, keynotes, and tutorials se
       </div>
 
       <div class="ol-theme-group theme-perspective">
-        <div class="ol-theme-heading">◉ Perspectivity</div>
+        <div class="ol-theme-heading">◉ Perspectives</div>
 
         <div class="ol-paper">
           <div class="ol-paper-title">Rater Cohesion and Quality from a Vicarious Perspective</div>
@@ -526,8 +546,8 @@ theme while showing related shared-task organisation, keynotes, and tutorials se
 
     <!-- 2025 -->
     <div class="ol-year-research">
-      <div class="ol-theme-group theme-cross">
-        <div class="ol-theme-heading">◎ Cross-lingual Analysis</div>
+      <div class="ol-theme-group theme-modelling">
+        <div class="ol-theme-heading">⚙ Modelling</div>
 
         <div class="ol-paper">
           <div class="ol-paper-title">Does Machine Translation Impact Offensive Language Identification? The Case of Indo-Aryan Languages</div>
@@ -536,10 +556,9 @@ theme while showing related shared-task organisation, keynotes, and tutorials se
       </div>
     </div>
 
-  </div>
-
+</div>
   <!-- ===================== YEAR AXIS ===================== -->
-  <div class="ol-axis">
+<div class="ol-axis">
     <div class="ol-year"><span>2019</span></div>
     <div class="ol-year"><span>2020</span></div>
     <div class="ol-year"><span>2021</span></div>
@@ -548,10 +567,8 @@ theme while showing related shared-task organisation, keynotes, and tutorials se
     <div class="ol-year"><span>2024</span></div>
     <div class="ol-year"><span>2025</span></div>
   </div>
-
   <!-- ===================== ACTIVITIES ===================== -->
-  <div class="ol-activities">
-
+<div class="ol-activities">
     <!-- 2019 -->
     <div class="ol-year-activities"></div>
 
@@ -609,14 +626,11 @@ theme while showing related shared-task organisation, keynotes, and tutorials se
     <!-- 2025 -->
     <div class="ol-year-activities"></div>
 
-  </div>
-
 </div>
 </div>
 </div>
-
+</div>
 <p class="ol-note">
-On smaller screens, the timeline can be scrolled horizontally. Each publication remains a separate card, while related papers are visually grouped by research theme within each year.
+On smaller screens, the timeline can be scrolled horizontally. Each publication remains a separate square card, while related papers are visually grouped under Modelling, Resources, Explainability, or Perspectives within each year.
 </p>
-
 </div>
