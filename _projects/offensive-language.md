@@ -43,7 +43,7 @@ shared-task organisation, keynotes and tutorials.
   overflow-x: auto;
   overflow-y: visible;
   padding: 1rem 5rem 2rem 8rem;
-  scroll-padding-left: 8rem;
+  scroll-padding-left: 14rem;
   scroll-padding-right: 5rem;
   -webkit-overflow-scrolling: touch;
 }
