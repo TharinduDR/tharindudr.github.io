@@ -43,7 +43,7 @@ shared-task organisation, keynotes and tutorials.
   overflow-x: auto;
   overflow-y: visible;
   padding: 1rem 5rem 2rem 8rem;
-  scroll-padding-left: 14rem;
+  scroll-padding-left: 8rem;
   scroll-padding-right: 5rem;
   -webkit-overflow-scrolling: touch;
 }
@@ -211,8 +211,12 @@ shared-task organisation, keynotes and tutorials.
   }
 
   .ol-project .ol-scroll {
-    padding: 1rem 1.25rem 2rem;
-    scroll-padding-inline: 1.25rem;
+    padding-top: 1rem;
+    padding-right: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 6rem;
+    scroll-padding-left: 6rem;
+    scroll-padding-right: 2rem;
   }
 }
 </style>
