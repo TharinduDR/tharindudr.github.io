@@ -11,7 +11,7 @@ I am an Assistant Professor at the [School of Computing and Communications](http
 
 My research focuses on **Natural Language Processing (NLP) and Machine Learning (ML)**, with a particular interest in developing language technologies that are accessible, reliable, safe, and beneficial to society. My work primarily focuses on enhancing communication in two interconnected areas:
 
-- **Human–Human Communication:** My research includes machine translation, text summarisation, text simplification, and related technologies that make information more accessible across languages and communities. I also investigate online safety through offensive language detection, hate speech detection, and misinformation detection, with the aim of promoting safer communication.
+- **Human–Human Communication:** My research includes machine translation, text summarisation, text simplification, and related technologies that make information more accessible across languages and communities. I also investigate safe communication through offensive language detection, hate speech detection, and misinformation detection, with the aim of promoting safer communication.
 
 - **Human–AI Communication:** I am interested in understanding and improving how people interact with language technologies, particularly the reliability, safety, and usefulness of AI-generated outputs. My work includes machine translation quality estimation, language model evaluation, and approaches to identifying and mitigating harmful or unsafe interactions with AI systems.
 
